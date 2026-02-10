@@ -9,7 +9,7 @@
 		<Program_Name>Shanbit</Program_Name>
 		<Program_Version>1.0.3</Program_Version>
 		<Program_Release_Month>02</Program_Release_Month>
-		<Program_Release_Day>06</Program_Release_Day>
+		<Program_Release_Day>10</Program_Release_Day>
 		<Program_Release_Year>2026</Program_Release_Year>
 		<Program_Cost_Dollars>14.99</Program_Cost_Dollars>
 		<Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
@@ -58,22 +58,22 @@ Ideal for creating database keys, Wi-Fi access, bank accounts, and API tokens. T
 	</Program_Descriptions>
 	<Web_Info>
 		<Application_URLs>
-			<Application_Info_URL>https://apps.microsoft.com/detail/9NRKDHPM1V1F</Application_Info_URL>
-			<Application_Order_URL>https://apps.microsoft.com/detail/9NRKDHPM1V1F</Application_Order_URL>
+			<Application_Info_URL>https://apps.microsoft.com/detail/9NR12VDV9NM5</Application_Info_URL>
+			<Application_Order_URL>https://apps.microsoft.com/detail/9NR12VDV9NM5</Application_Order_URL>
 			<Application_Screenshot_URL>https://i.postimg.cc/wB4ysdG6/Diceware.png</Application_Screenshot_URL>
 			<Application_Icon_URL>https://i.postimg.cc/mkCtq12j/icon_32.png</Application_Icon_URL>
 			<Application_XML_File_URL>https://raw.githubusercontent.com/PabloSalinasDev/Shanbit/refs/heads/main/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>https://apps.microsoft.com/detail/9NRKDHPM1V1F</Primary_Download_URL>
-			<Secondary_Download_URL>https://apps.microsoft.com/detail/9NRKDHPM1V1F</Secondary_Download_URL>
+			<Primary_Download_URL>https://apps.microsoft.com/detail/9NR12VDV9NM5</Primary_Download_URL>
+			<Secondary_Download_URL>https://apps.microsoft.com/detail/9NR12VDV9NM5</Secondary_Download_URL>
 		</Download_URLs>
 	</Web_Info>
 	<Company_Info>
-		<Company_Name>PybloSoft</Company_Name>
-		<Company_Web_Site_URL>https://apps.microsoft.com/detail/9NRKDHPM1V1F</Company_Web_Site_URL>
+		<Company_Name>PyBloSoft</Company_Name>
+		<Company_Web_Site_URL>https://apps.microsoft.com/detail/9NR12VDV9NM5</Company_Web_Site_URL>
 		<Contact_Info>
-			<Author_First_Name>PybloSoft</Author_First_Name>
+			<Author_First_Name>PyBloSoft</Author_First_Name>
 			<Author_Last_Name>Developer</Author_Last_Name>
 			<Author_Email>support@pyblosoft.com</Author_Email>
 		</Contact_Info>

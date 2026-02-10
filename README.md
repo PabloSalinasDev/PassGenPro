@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo_full.png" width="128" alt="PassGenPro Logo">
+  <img src="assets/logo_full.png" width="128" alt="Shanbit Logo">
 </p>
 
 # Shanbit 🛡️
@@ -33,7 +33,7 @@ $$E = L \times \log_2(R)$$
 * **Classification** ranging from "Very Weak" (< 40 bits) to "Unbreakable" (> 100 bits).
 
 <p align="center">
-  <img src="assets/standard.png" width="600" alt="PassGenPro Screenshot">
+  <img src="assets/standard.png" width="600" alt="Shanbit Screenshot">
 </p>
 
 ### 2. Memory & Clipboard Security
@@ -42,21 +42,21 @@ To prevent forensic analysis of sensitive data:
 * **Clipboard Auto-Clear:** Implementation of a background thread (`threading.Timer`) that automatically clears the system clipboard after 30 seconds of inactivity.
 
 <p align="center">
-  <img src="assets/history.png" width="600" alt="PassGenPro Screenshot">
+  <img src="assets/history.png" width="600" alt="Shanbit Screenshot">
 </p>
 
 ### 3. Secure QR Transfer
 Implementation of logic to transfer keys to mobile devices without relying on networks or cloud services. The QR code is generated as an **in-memory Base64 string**, avoiding the creation of temporary files on the hard drive that could be recovered.
 
 <p align="center">
-  <img src="assets/QR.png" width="600" alt="PassGenPro Screenshot">
+  <img src="assets/QR.png" width="600" alt="Shanbit Screenshot">
 </p>
 
 ### 4. Multi-language Diceware Generation
 Support for memorable passphrases using optimized word lists in **Spanish** and **English**, selected via `secrets.choice` to ensure maximum statistical randomness.
 
 <p align="center">
-  <img src="assets/diceware.png" width="600" alt="PassGenPro Screenshot">
+  <img src="assets/diceware.png" width="600" alt="Shanbit Screenshot">
 </p>
 
 ---
@@ -71,10 +71,10 @@ Support for memorable passphrases using optimized word lists in **Spanish** and 
 ---
 
 ## 👨‍💻 Note for Recruiters
-This repository contains the documentation and technical specifications for the project. The full source code is the property of **PybloSoft** and is maintained in a private repository for commercial reasons, as the product is distributed under a one-time purchase model on the Microsoft Store. 
+This repository contains the documentation and technical specifications for the project. The full source code is the property of **PyBloSoft** and is maintained in a private repository for commercial reasons, as the product is distributed under a one-time purchase model on the Microsoft Store. 
 
 If you would like to discuss specific details regarding the implementation of the security logic or the software architecture, please feel free to contact me.
 
 ---
 
-© 2026 **PybloSoft** | [Technical Support](mailto:support@pyblosoft.com)
+© 2026 **PyBloSoft** | [Technical Support](mailto:support@pyblosoft.com)
