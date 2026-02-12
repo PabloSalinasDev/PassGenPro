@@ -60,7 +60,7 @@ Ideal for creating database keys, Wi-Fi access, bank accounts, and API tokens. T
 		<Application_URLs>
 			<Application_Info_URL>https://apps.microsoft.com/detail/9NR12VDV9NM5</Application_Info_URL>
 			<Application_Order_URL>https://apps.microsoft.com/detail/9NR12VDV9NM5</Application_Order_URL>
-			<Application_Screenshot_URL>https://i.postimg.cc/wB4ysdG6/Diceware.png</Application_Screenshot_URL>
+			<Application_Screenshot_URL>https://i.postimg.cc/65SDMQNj/standard_en.png</Application_Screenshot_URL>
 			<Application_Icon_URL>https://i.postimg.cc/mkCtq12j/icon_32.png</Application_Icon_URL>
 			<Application_XML_File_URL>https://raw.githubusercontent.com/PabloSalinasDev/Shanbit/refs/heads/main/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
